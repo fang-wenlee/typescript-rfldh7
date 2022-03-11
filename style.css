@@ -1,0 +1,18 @@
+body, input {
+    font-family: Lato;
+    font-size: 16px;
+}
+
+.wj-flexgrid {
+    max-height: 450px;
+}
+
+.wj-cell {
+    padding: 8px;
+}
+
+#undoable-form {
+  margin: 1em;
+  border: 1px solid black;
+  padding: 1em;
+}
